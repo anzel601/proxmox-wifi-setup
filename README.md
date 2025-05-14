@@ -115,10 +115,17 @@ systemctl restart networking
 
 ### Test Wi-Fi Connectivity
 
+You should have IP already
+
+```bash
+ip a
+wlxd03745b0c19c: state UP, inet 192.168.0.124/24
+```
+
 Check if router is reachable:
 
 ```bash
-ping 192.168.0.1
+ping [Your router IP, eg. 192.168.0.1]
 ```
 
 If no IP is assigned:
@@ -126,6 +133,8 @@ If no IP is assigned:
 ```bash
 dhclient [WIFI_INTERFACE_NAME]
 ```
+it will force ip assigment from DHCP server
+
 
 ⚠️ You may lose Ethernet connection — physical console access may be required.
 
