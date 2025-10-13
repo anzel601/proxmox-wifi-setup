@@ -5,13 +5,34 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="hcbnk5OEnC9chWrRtzbr-3" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="339.99500000000006" y="140.00499999999994" width="99.98000000000002" height="72.64500000000004" as="geometry" />
+          <mxGeometry x="119.99500000000006" y="120.00499999999994" width="99.98000000000002" height="72.64500000000004" as="geometry" />
         </mxCell>
         <mxCell id="hcbnk5OEnC9chWrRtzbr-1" value="" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.desktop_pc;network2IconXOffset=-0.0034;network2IconYOffset=0.00035;network2IconW=0.453;network2IconH=0.9995;rotation=90;" vertex="1" parent="hcbnk5OEnC9chWrRtzbr-3">
           <mxGeometry x="27.33499999999998" y="-27.33499999999998" width="45.31" height="99.98" as="geometry" />
         </mxCell>
         <mxCell id="hcbnk5OEnC9chWrRtzbr-2" value="DELL 3060" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="hcbnk5OEnC9chWrRtzbr-3">
           <mxGeometry x="9.994999999999948" y="42.64500000000004" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hcbnk5OEnC9chWrRtzbr-6" value="plex" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#0008FF;strokeColor=none;shape=mxgraph.alibaba_cloud.ask_ack_container_service_for_kubernetes;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="420" y="408.7" width="44.7" height="51.3" as="geometry" />
+        </mxCell>
+        <mxCell id="hcbnk5OEnC9chWrRtzbr-7" value="prowlarr" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#0008FF;strokeColor=none;shape=mxgraph.alibaba_cloud.ask_ack_container_service_for_kubernetes;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="340" y="300" width="44.7" height="51.3" as="geometry" />
+        </mxCell>
+        <mxCell id="hcbnk5OEnC9chWrRtzbr-8" value="sonarr" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#0008FF;strokeColor=none;shape=mxgraph.alibaba_cloud.ask_ack_container_service_for_kubernetes;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="494.7" y="270" width="44.7" height="51.3" as="geometry" />
+        </mxCell>
+        <mxCell id="hcbnk5OEnC9chWrRtzbr-9" value="qbit" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#0008FF;strokeColor=none;shape=mxgraph.alibaba_cloud.ask_ack_container_service_for_kubernetes;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="215.3" y="470" width="44.7" height="51.3" as="geometry" />
+        </mxCell>
+        <mxCell id="hcbnk5OEnC9chWrRtzbr-10" value="flaresolverr" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#0008FF;strokeColor=none;shape=mxgraph.alibaba_cloud.ask_ack_container_service_for_kubernetes;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="285.3" y="460" width="44.7" height="51.3" as="geometry" />
+        </mxCell>
+        <mxCell id="hcbnk5OEnC9chWrRtzbr-11" value="yt-dlp-webui" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#0008FF;strokeColor=none;shape=mxgraph.alibaba_cloud.ask_ack_container_service_for_kubernetes;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="530" y="533" width="44.7" height="51.3" as="geometry" />
+        </mxCell>
+        <mxCell id="hcbnk5OEnC9chWrRtzbr-12" value="bazarr" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#0008FF;strokeColor=none;shape=mxgraph.alibaba_cloud.ask_ack_container_service_for_kubernetes;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="620" y="418.7" width="44.7" height="51.3" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
