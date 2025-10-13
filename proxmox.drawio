@@ -1,1 +1,19 @@
-<mxGraphModel><root><mxCell id="0"/><mxCell id="1" parent="0"/></root></mxGraphModel>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.5">
+  <diagram id="QWb_Fj_3eXT27csENE2z" name="Page-1">
+    <mxGraphModel dx="2066" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hcbnk5OEnC9chWrRtzbr-3" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="339.99500000000006" y="140.00499999999994" width="99.98000000000002" height="72.64500000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="hcbnk5OEnC9chWrRtzbr-1" value="" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.desktop_pc;network2IconXOffset=-0.0034;network2IconYOffset=0.00035;network2IconW=0.453;network2IconH=0.9995;rotation=90;" vertex="1" parent="hcbnk5OEnC9chWrRtzbr-3">
+          <mxGeometry x="27.33499999999998" y="-27.33499999999998" width="45.31" height="99.98" as="geometry" />
+        </mxCell>
+        <mxCell id="hcbnk5OEnC9chWrRtzbr-2" value="DELL 3060" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="hcbnk5OEnC9chWrRtzbr-3">
+          <mxGeometry x="9.994999999999948" y="42.64500000000004" width="80" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
