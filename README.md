@@ -201,6 +201,12 @@ journalctl -u networking.service
 dmesg -e
 ```
 
+If you don't see status of LXC/VM in web gui
+
+```bash
+systemctl restart pvestatd.service
+```
+
 ---
 
 ### Routing Example Output
